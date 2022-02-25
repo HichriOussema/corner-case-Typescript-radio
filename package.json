@@ -1,4 +1,5 @@
 {
+  "homepages": "https://HichriOussema.github.io/corner-case-Typescript-radio",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -14,6 +15,7 @@
     "@types/react-dom": "^17.0.9",
     "axios": "^0.26.0",
     "faker": "^6.6.6",
+    "gh-pages": "^3.2.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "5.0.0",
@@ -21,6 +23,8 @@
     "web-vitals": "^2.1.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
