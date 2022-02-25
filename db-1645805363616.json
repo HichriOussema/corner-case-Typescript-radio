@@ -1,0 +1,58 @@
+{
+  "stations": [
+    {
+      "id": 1,
+      "name": "IFM",
+      "frequence": "55,6",
+      "imagelink": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg"
+    },
+    {
+      "id": 2,
+      "name": "IFM 1",
+      "frequence": "45,6",
+      "imagelink": "https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg"
+    },
+    {
+      "id": 3,
+      "name": "IFM 2",
+      "frequence": "525,6",
+      "imagelink": "https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072821_1280.jpg"
+    },
+    {
+      "id": 4,
+      "name": "IFM",
+      "frequence": "55,6",
+      "imagelink": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg"
+    },
+    {
+      "id": 5,
+      "name": "IFM 1",
+      "frequence": "45,6",
+      "imagelink": "https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg"
+    },
+    {
+      "id": 6,
+      "name": "IFM 2",
+      "frequence": "525,6",
+      "imagelink": "https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072821_1280.jpg"
+    },
+    {
+      "id": 7,
+      "name": "IFM",
+      "frequence": "55,6",
+      "imagelink": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg"
+    },
+    {
+      "id": 8,
+      "name": "IFM 1",
+      "frequence": "45,6",
+      "imagelink": "https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg"
+    },
+    {
+      "id": 9,
+      "name": "IFM 2",
+      "frequence": "525,6",
+      "imagelink": "https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072821_1280.jpg"
+    }
+  ]
+}

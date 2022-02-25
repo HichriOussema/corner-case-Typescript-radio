@@ -10,7 +10,7 @@ export const StationsList: React.FC<props> = ({setNameStationforstationList}) =>
   const [stationList,setStationList] = useState([]);
 
 useEffect(() => {
-fetch('http://localhost:3000/stations')
+fetch('http://localhost:3001/stations')
     .then(res => {
      return res.json();
     })
